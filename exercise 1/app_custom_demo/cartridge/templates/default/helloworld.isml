@@ -1,3 +1,4 @@
 <!--- TEMPLATENAME: helloworld.isml --->
 <h1>test site </h1>
 <h2>${pdict.Message}</h2>
+<!-- "pdict" default varibale passed to isml through controller  -->
