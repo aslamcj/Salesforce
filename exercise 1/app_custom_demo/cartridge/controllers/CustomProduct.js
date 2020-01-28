@@ -6,7 +6,7 @@ var cache = require('*/cartridge/scripts/middleware/cache');
 
 /**
 server.get call back function
-get first parameter 'Show'
+get first parameter 'Show' is router name, which will be used to browser URL
 get second parameter 'cache.applyDefaultCache'
 get third call back function having 3 parameters 'req', 'res', 'next'
 
