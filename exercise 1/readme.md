@@ -15,3 +15,7 @@
 
 How to view the file:
 https://SiteName.net/on/demandware.store/Sites-RefArch-Site/en_US/CustomProduct-Show
+
+URL debugging
+CustomProudct - is the controller name
+Show - is the router name
