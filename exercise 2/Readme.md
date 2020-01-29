@@ -7,3 +7,6 @@
  
 
 https://sanbox.net/on/demandware.store/Sites-RefArch-Site/en_US/CustomProduct-Show?PID=25553387M
+
+
+<p>JSON.stringify(${pdict.fullProdDetails})</p>
